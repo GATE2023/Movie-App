@@ -1,2 +1,2 @@
 # Movie-App
-Movie App project With HTML,CSS And Bootstrap.
+Movie App project With HTML,jQuery And Bootstrap
